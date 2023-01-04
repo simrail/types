@@ -1,0 +1,22 @@
+{
+  "name": "@simrail/types",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [],
+  "author": {
+    "name": "Julian Louis",
+    "email": "contact@julianlouis.fr",
+    "url": "https://julianlouis.fr/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {},
+  "description": "",
+  "types": "./index.d.ts",
+  "files": [
+    "index.d.ts",
+    "src"
+  ]
+}
