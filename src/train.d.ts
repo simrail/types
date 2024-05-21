@@ -19,6 +19,7 @@ type TrainData = {
     Velocity: number,
     SignalInFront: string,
     DistanceToSignalInFront: number,
+    SignalInFrontSpeed: number,
     VDDelayedTimetableIndex: number,
 }
 
