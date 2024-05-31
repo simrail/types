@@ -4,3 +4,5 @@ type Signal = {
     Longitude: number,
     Speed: number
 }
+
+export type { Signal }
