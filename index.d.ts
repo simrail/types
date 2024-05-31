@@ -3,3 +3,4 @@ export type { Server } from './src/server';
 export type { Station } from './src/station';
 export type { Train } from './src/train';
 export type { User } from './src/user';
+export type { Signal } from './src/signal';
