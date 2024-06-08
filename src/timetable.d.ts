@@ -32,7 +32,7 @@ type timetable = {
     stationCategory: string
 }
 
-const enum StopType {
+export const enum StopType {
     NoStopOver,
     CommercialStop,
     NoncommercialStop
