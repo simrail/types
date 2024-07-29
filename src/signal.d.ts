@@ -1,8 +1,7 @@
 type Signal = {
     Name: string,
-    Latititute: number,
-    Longitute: number,
-    Speed: number
+    Latitude: number,
+    Longitude: number,
 }
 
 export type { Signal }
