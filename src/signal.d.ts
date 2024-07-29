@@ -1,7 +1,7 @@
 type Signal = {
     Name: string,
-    Latititude: number,
-    Longitude: number,
+    Latititute: number,
+    Longitute: number,
     Speed: number
 }
 
