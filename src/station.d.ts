@@ -14,6 +14,7 @@ type Station = {
 type DispatchedBy = {
     ServerCode: string,
     SteamId: string,
+    XboxId: string,
 }
 
 export type { Station }
